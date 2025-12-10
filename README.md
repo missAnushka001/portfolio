@@ -50,11 +50,11 @@ To run this project locally, follow these simple steps:
 
 ## 🖼️ Screenshots
 
-![screenshot]()
+![screenshot](https://github.com/missAnushka001/portfolio/blob/main/Screenshot%20(19).png)
 
 #### 1. Header and Introduction Section
 
-```markdown
+```markdown```
 ### 📝 License
 
 This project is open-sourced under the MIT License.
